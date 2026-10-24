@@ -1,0 +1,4 @@
+[
+  {"name": "docs-v2", "url": "https://example.com/docs", "kind": "contains", "pattern": "Version 2", "subject": "Docs v2 is live"},
+  {"name": "price-page", "url": "https://example.com/pricing", "kind": "changed", "subject": "The pricing page changed"}
+]
