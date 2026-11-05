@@ -43,4 +43,4 @@ Measured from the author's own use, numbers only, no page content. One poller wa
 
 MIT. See [LICENSE](LICENSE).
 
-Built with Claude Code. More: https://henrylopezpardo.com/
+Built with Claude Code.
